@@ -19,9 +19,6 @@
   - Selenium ile LinkedIn'den iş verilerini çekip analiz ettim.
   - Doğal dil işleme teknikleri ve GPT-4 ile iş trendlerini görselleştirdim.
 
-## GitHub İstatistiklerim
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebubekirsoftware&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebubekirsoftware&layout=compact)
 
 ## İletişim
 - 📫 Bana ulaşın: [ebubekirsoftware@gmail.com](mailto:ebubekirsoftware@gmail.com)
