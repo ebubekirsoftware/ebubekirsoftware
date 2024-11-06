@@ -2,18 +2,18 @@
 # Merhaba, ben Ebubekir Tosun 👋
 
 ## Hakkımda
-- 💼 **Data Science Mentor Assistant** olarak çalışıyorum, MIUUL'da 30 katılımcıya rehberlik ederek katılımcı verimliliğini artırdım.
-- 🌱 Yeni öğrendiğim teknolojiler: GPT-4, Docker, Transformers, Kubernetes, LangChain
+- 💼 MIUUL'da **Data Science Mentor Assistant** olarak çalışıyorum.
+- 🌱 Yeni öğrendiğim teknolojiler: Docker, Kubernetes, LangChain
 - 🎯 Hedeflerim: AI projelerinde daha fazla uzmanlaşmak ve büyük veri platformlarıyla çalışmak.
 
 ## Projelerim
 - **Trendyol Review Checker** (Ekim 2024): 
-  - 10.000 Trendyol yorumu ile etiketlenmiş çoklu sınıflandırma modeli geliştirdim.
+  - 10.000 Trendyol yorumu ile hazırladığım ve etiketlediğim verisetini kullanarak çoklu sınıflandırma modeli geliştirdim.
   - Python, GPT-4, Turkish-BERT, Django, FastAPI, Docker teknolojilerini kullandım.
   
 - **Van Gogh Style Transfer with ComfyUI** (Eylül 2024):
   - Stable Diffusion ve ControlNet ile Van Gogh stilinde görsel oluşturma projesi.
-  - Python ve ComfyUI kullanarak resim transferini optimize ettim.
+  - Python ve ComfyUI kullanarak stil transferi gerçekleştirdim.
   
 - **Tech Demand Analysis for LinkedIn Jobs** (Temmuz 2024):
   - Selenium ile LinkedIn'den iş verilerini çekip analiz ettim.
